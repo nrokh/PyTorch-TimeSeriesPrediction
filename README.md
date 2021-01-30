@@ -1,4 +1,4 @@
-# A guide to time-series prediction in PyTorch: deep feed-forward networks 
+# Time-series prediction in PyTorch: deep feed-forward networks 
 ### About:
 This notebook is intended to be a beginner's introduction to predicting time-series data using some of PyTorch's simplest neural network building blocks.   
 
